@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=505&height=72&duration=2500&lines=Glad+to+see+you!+👋;+I'm+Bach+Pham!+😎;" /> </h1>
 
-<h3 align="center">A hardworking student from Vietnam 🤩</h3>
+<h1 align="center">A Vietnamese Coder born in 2006 🤩</h1>
 
 <br/>
 
@@ -45,7 +45,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>👑 My Contributions 👑</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/2006coder/2006coder/output/github-contribution-grid-snake.svg" />
   
