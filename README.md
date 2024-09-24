@@ -8,6 +8,7 @@
 <br/>
 
 <div align="center">
+  
   🔑 Currently, I am conducting research about **evaluating AI's integrity** for Prof. Yunting Yin.
   
   💡 I know **Python** well, proficient in modeling and dealing with datasets. I am learning HTML.
@@ -67,13 +68,3 @@
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
-
-
-<br/>
-
-<br/>
