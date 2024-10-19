@@ -11,7 +11,7 @@
   
   🔑 Currently, I am conducting research about **evaluating AI's integrity** for Prof. Yunting Yin.
   
-  💡 I know **Python** well, proficient in modeling and dealing with datasets. I am learning HTML.
+  💡 I know **Python** well, proficient in modeling and dealing with datasets.
   
   💬 Ask me about **OpenCV, Transformers, PyTorch, Keras, etc., or anything [here](https://github.com/2006coder/2006coder/issues)**
   
