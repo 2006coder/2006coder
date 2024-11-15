@@ -31,7 +31,7 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -39,6 +39,28 @@
     <img src="https://skillicons.dev/icons?i=python,opencv,pytorch" />
     <br>
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" /><br>
+</div>
+
+<br/>
+
+<h2 align="center">🌟 Featured Projects 🌟</h2>
+<br/>
+<div align="center">
+  <a href="https://github.com/2006coder/REPOSITORY_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2006coder&repo=REPOSITORY_1&theme=react&border_radius=10" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/2006coder/REPOSITORY_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2006coder&repo=REPOSITORY_2&theme=react&border_radius=10" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/2006coder/REPOSITORY_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2006coder&repo=REPOSITORY_3&theme=react&border_radius=10" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/2006coder/REPOSITORY_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2006coder&repo=REPOSITORY_4&theme=react&border_radius=10" />
+  </a>
 </div>
 
 <br/>
