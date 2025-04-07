@@ -6,10 +6,12 @@
 <h1 align="center">A Vietnamese Coder born in 2006 🤩</h1>
 
 <br/>
+# I AM FROM VIỆT NAM.
+<br/>
 
 <div align="center">
   
-  🔑 Currently, I am conducting research about **evaluating AI's integrity** for Prof. Yunting Yin.
+  🔑 Currently, I am trying to **review all the syntaxes** I have learnt for **Machine Learning** in **Python**. I am also reviewing the syntaxes for **JS**.
   
   💡 I know **Python** well, proficient in modeling and dealing with datasets.
   
