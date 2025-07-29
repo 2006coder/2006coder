@@ -72,3 +72,7 @@
 <hr/>
 
 <br/>
+
+
+## ⌨️😂I also love typing:
+<img width="1393" height="1397" alt="Screenshot 2025-07-29 021848" src="https://github.com/user-attachments/assets/cf1a81e6-5133-445c-9cfa-5527ea65431f" />
