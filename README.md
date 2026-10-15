@@ -4,13 +4,14 @@ Third-year Computer Science major at Earlham College, class of 2028. Physics and
 
 [2006coder.com](https://2006coder.com) | [LinkedIn](https://www.linkedin.com/in/2006coder) | [Email](mailto:bachpham.edu@gmail.com)
 
-My work spans enzyme kinetics, medical imaging, and the systems students use to do their own research.
-
 ## Selected work
 
 - **[LANCE-7R, University of Maryland](https://2006coder.com/lance)** - I designed one architecture for three enzyme kinetic parameters, with two JEPA-style objectives and selective label memory. Against CatPred retrained on the same split: **18/18 favorable Heldout/OOD99 metric comparisons**, and **41/48** across all supplied cohorts, based on point estimates. Manuscript under mentor review; not yet published.
+
 - **[Earlham College LibreChat](https://2006coder.com/librechat)** - Primary maintainer, working directly with Earlham ITS and the System Administration team. Internal beta serving about **150 daily users**. I built isolated coding workspaces and self-service local-model API keys, and migrated inference to llama.cpp across two GPU nodes.
+
 - **[Systems administration at Earlham](https://2006coder.com/sysadmin)** - I maintain servers, research software, and course dependencies, with Faraday as my main focus: GPU-ready Jupyter environments, certificates, and shared storage.
+
 - **[Computer vision at UMD](https://2006coder.com/#robotics)** - From image filters and derivatives implemented from scratch to SfM, Gaussian Splatting, and RLBench. [My fundamental-matrix derivation and SVD proof](https://2006coder.com/sfm).
 
 ## Publications
