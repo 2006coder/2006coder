@@ -1,75 +1,53 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=2006coder.2006coder" />
+# Bach Pham
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=505&height=72&duration=2500&lines=Glad+to+see+you!+👋;+I'm+Bach+Pham!+😎;" /> </h1>
+Third-year Computer Science major at Earlham College, class of 2028. Physics and Math minors. **3.98 / 4.00 GPA.**
 
-<h1 align="center">A Vietnamese Coder born in 2006 🤩</h1>
+[2006coder.com](https://2006coder.com) | [LinkedIn](https://www.linkedin.com/in/2006coder) | [Email](mailto:bachpham.edu@gmail.com)
 
-<br/>
+My work spans enzyme kinetics, medical imaging, and the systems students use to do their own research.
 
+## Selected work
 
-<div align="center">
-  
-  🔑 Currently, I am trying to **review all the syntaxes** I have learnt for **Machine Learning** in **Python**. I am also reviewing the syntaxes for **JS**.
-  
-  💡 I know **Python** well, proficient in modeling and dealing with datasets.
-  
-  💬 Ask me about **OpenCV, Transformers, PyTorch, Keras, etc., or anything [here](https://github.com/2006coder/2006coder/issues)**
-  
-  ⚡️ Some facts: I love **Math, Physics, and Computer Science**.
-</div>
+- **[LANCE-7R, University of Maryland](https://2006coder.com/lance)** - I designed one architecture for three enzyme kinetic parameters, with two JEPA-style objectives and selective label memory. Against CatPred retrained on the same split: **18/18 favorable Heldout/OOD99 metric comparisons**, and **41/48** across all supplied cohorts, based on point estimates. Manuscript under mentor review; not yet published.
+- **[Earlham College LibreChat](https://2006coder.com/librechat)** - Primary maintainer, working directly with Earlham ITS and the System Administration team. Internal beta serving about **150 daily users**. I built isolated coding workspaces and self-service local-model API keys, and migrated inference to llama.cpp across two GPU nodes.
+- **[Systems administration at Earlham](https://2006coder.com/sysadmin)** - I maintain servers, research software, and course dependencies, with Faraday as my main focus: GPU-ready Jupyter environments, certificates, and shared storage.
+- **[Computer vision at UMD](https://2006coder.com/#robotics)** - From image filters and derivatives implemented from scratch to SfM, Gaussian Splatting, and RLBench. [My fundamental-matrix derivation and SVD proof](https://2006coder.com/sfm).
 
+## Publications
 
-<div align="center"> 
-  <a href="mailto:4gpaiseasy@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
-  </a>
-  <a href="https://www.linkedin.com/in/bach-pham-96214932b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://2006coder.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
+**First author | IEEE/ACM CHASE 2026**<br>
+[A Two-Stage AI System for Interpretable ACL Tear Screening in Connected Health Environments](https://ieeexplore.ieee.org/document/11668005)<br>
+My custom 2.5D ResNet50 classifier combined seven MRI slices with learned slice attention. **0.848 AUC vs. 0.719** for the baseline on the 30-patient held-out test set. Presented at the University of Pittsburgh.
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,opencv,pytorch" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" /><br>
-</div>
+**First author | IEEE ICSC 2025**<br>
+[Word Definitions from Large Language Models](https://ieeexplore.ieee.org/document/11036288)<br>
+Compared generated definitions with three published dictionaries, including how well embedding definitions represent rare words.
 
-<br/>
-<hr/>
+**Second author | IEEE ICSC 2025**<br>
+[Prosody Analysis of Audiobooks](https://ieeexplore.ieee.org/document/11036320)<br>
+Studied pitch, volume, and speaking rate using **93 aligned book-audiobook pairs**.
 
-<div align="center">
-  <h2>👑 My Contributions 👑</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/2006coder/2006coder/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+## Tools I use
 
-<hr/>
+**ML & vision:** Python, PyTorch, TensorFlow, Keras, Hugging Face, OpenCV, COLMAP, Nerfstudio<br>
+**Data & math:** NumPy, Pandas, Scikit-learn, Matplotlib, SageMath<br>
+**Development & systems:** C/C++, JavaScript, React, Git, Linux, Docker, CUDA, Slurm
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-2006coders-projects.vercel.app/?user=2006coder&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-2006coders-projects.vercel.app/api?username=2006coder&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-2006coders-projects.vercel.app/api/top-langs/?username=salesp07&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+## On GitHub
 
-<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2006coder/2006coder/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/2006coder/2006coder/output/snake.svg" alt="Animation of a snake moving through my GitHub contribution calendar" width="880" />
+</picture>
 
-<hr/>
+<details>
+<summary>Public GitHub activity</summary>
 
-<br/>
+Updated daily from GitHub's API.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2006coder/2006coder/output/stats-dark.svg" />
+  <img src="https://raw.githubusercontent.com/2006coder/2006coder/output/stats.svg" alt="Bach Pham's public GitHub activity statistics" width="440" />
+</picture>
 
-## ⌨️😂I also love typing:
-<img width="1393" height="1397" alt="Screenshot 2025-07-29 021848" src="https://github.com/user-attachments/assets/cf1a81e6-5133-445c-9cfa-5527ea65431f" />
+</details>
